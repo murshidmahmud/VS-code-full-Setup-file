@@ -1,0 +1,12 @@
+MingW Compiler - https://drive.google.com/file/d/1aC9xQL2J1JSMT-ChEd2DP4OR4es5FSjq/view?usp=sharing
+
+
+Settings.json - https://docs.google.com/document/d/161MPPoK2w8yBsIrLn7vXmW2rnejGaM4v6LywmBmLqaI/edit?usp=sharing
+
+Codeblocks Link- https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe/download
+
+Git Bash Link - https://git-scm.com/downloads
+
+VS Code Link - https://code.visualstudio.com/download
+
+
