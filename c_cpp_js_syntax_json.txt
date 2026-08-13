@@ -1,0 +1,43 @@
+1. C syntax Json file:
+
+"C": {
+		"prefix": "c_sort_syntex",
+		"body": [
+			"#include<stdio.h>",
+			" ",
+			"int main()",
+			"{",
+			"   return 0;",
+			"}",
+		],
+		"description": "Log output to console"
+	}
+
+
+
+2. C++ syntax Json file:
+
+"CPP": {
+		"prefix": "cpp_short_syntax",
+		"body": [
+			"#include<bits/stdc++.h>",
+			"using namespace std;",
+			" ",
+			"int main()",
+			"{",
+			"    return 0;",
+			"}",
+		],
+		"description": "Log output to console"
+	}
+
+
+3.javaScript syntax json file: 
+
+"javascript":{
+		"prefix": "js",
+		"body": [
+			"<script> </script>", 
+		],
+		"description": "Log output to console",
+	}
